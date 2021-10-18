@@ -86,11 +86,6 @@ function niveau3() {
 // Le systeme de jeu
 
 
-
-
-
-
-
 function click_utili() {
 
 
@@ -119,7 +114,6 @@ function click_utili() {
     document.getElementById("nb_indice").innerHTML = "Vous etes a " + indice + " essais"; // on affiche l'indice pour prevenir l'utilisateur combiens d'essai il lui reste
 
 }
-
 
 
 
