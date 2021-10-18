@@ -35,8 +35,8 @@ main{
 #image-start{
     display: block;
 }
-#image-start{
-    width:auto ;
+#image-start img{
+    width:300px ;
 }
 #image-start h1{
     color:red;
